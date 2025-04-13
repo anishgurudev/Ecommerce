@@ -1,0 +1,10 @@
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+        <timelineEnabled>true</timelineEnabled>
+        <reportName>BDD Test Execution Report</reportName>
+        <documentTitle>Automation Report</documentTitle>
+    </configuration>
+</extentreports>
