@@ -5,3 +5,4 @@ Feature: all login related scenario's
     When  I enter username and credentials
     And  I click on login button
     Then I should redirected to home page
+    And close
